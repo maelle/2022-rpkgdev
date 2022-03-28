@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: e216689425c9f5e6
+rmd_hash: 6258540b4dc2d204
 
 ---
 
@@ -82,7 +82,7 @@ Both rewarding and time-consuming
 
 -   Governance file?
 
-[Future rOpenSci comm call, stay tuned!](https://github.com/ropensci-org/community-calls/issues/21)
+\[rOpenSci past community call "Set Up Your Package to Foster a Community"\](<https://ropensci.org/commcalls/apr2021-pkg-community/>
 
 ------------------------------------------------------------------------
 

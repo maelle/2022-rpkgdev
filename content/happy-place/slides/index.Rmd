@@ -103,7 +103,7 @@ Both rewarding and time-consuming
 
 * Governance file?
 
-[Future rOpenSci comm call, stay tuned!](https://github.com/ropensci-org/community-calls/issues/21)
+[rOpenSci past community call "Set Up Your Package to Foster a Community"](https://ropensci.org/commcalls/apr2021-pkg-community/
 
 ---
 
