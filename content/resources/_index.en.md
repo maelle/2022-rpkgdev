@@ -5,7 +5,7 @@ chapter: false
 slides: false
 menuTitle: Resources
 output: hugodown::md_document
-rmd_hash: 60ae425a9158a209
+rmd_hash: ef5791f123875b28
 
 ---
 
@@ -25,7 +25,7 @@ rmd_hash: 60ae425a9158a209
 
 -   [Tidyverse design guide](https://design.tidyverse.org/).
 
--   [R-hub blog](https://blog.r-hub.io).
+-   [R-hub blog](https://blog.r-hub.io) e.g. [Checking the inputs of your R functions](https://blog.r-hub.io/2022/03/10/input-checking/) & [Coding style, coding etiquette](https://blog.r-hub.io/2022/03/21/code-style/).
 
 -   [Tidyverse style guide](https://style.tidyverse.org/).
 
