@@ -30,8 +30,6 @@ Setup is not fun!
 
 * `usethis::use_git()`
 
-* in a shell `git branch -m master main`
-
 * `usethis::use_r("time")`. Explain what `sprintf()` does.
 
 * `devtools::load()`, `what_time()`

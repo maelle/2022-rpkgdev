@@ -168,7 +168,7 @@ Get to know an actually useful Clippy, `{usethis}`!
 
 ## Website tour
 
-:link: https://pkg-dev-el.netlify.app
+:link: https://rladies-jozi-r-pkg-dev.netlify.app/
 
 Slides, notes from the demo, further resources, comments!
 
@@ -194,7 +194,7 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 ## R CMD check (devtools::check())
 
 ```{r traffic, results="asis", cache=TRUE, echo=FALSE}
-get_pic(id = 1727004, alt = "Green traffic light", 500)
+get_pic(id = 1616781, alt = "East Berlin pedestrian traffic light", 500)
 ```
 
 

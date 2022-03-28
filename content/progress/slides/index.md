@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 23e43a9930a2cf70
+rmd_hash: 2ff671e7f69a7268
 
 ---
 
@@ -25,9 +25,9 @@ Automatically ✨, and not 🧠
 
 ## Assessing your package
 
--   [R CMD check or `devtools::check()`](http://r-pkgs.org/check.html), [`BiocCheck`](https://bioconductor.org/packages/release/bioc/html/BiocCheck.html)
+-   [R CMD check or `devtools::check()`](http://r-pkgs.org/check.html), [BiocCheck](https://bioconductor.org/packages/release/bioc/html/BiocCheck.html)
 
--   [`goodpractice`](http://mangothecat.github.io/goodpractice/) and [`lintr`](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) (possibly via [CodeFactor](https://www.codefactor.io)).
+-   [pkgcheck](https://docs.ropensci.org/pkgcheck/), [goodpractice](http://mangothecat.github.io/goodpractice/), [lintr](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) (possibly via [CodeFactor](https://www.codefactor.io)).
 
 -   [`covr::package_coverage()`](http://covr.r-lib.org/reference/package_coverage.html)
 
@@ -203,15 +203,11 @@ Fora: Help and learn.
 
 [Transparent, constructive, non adversarial and open review process](https://devguide.ropensci.org/softwarereviewintro.html#whatissoftwarereview) for packages [in scope](https://devguide.ropensci.org/policies.html#aims-and-scope).
 
+Also [rOpenSci Statistical Software Peer Review](https://ropensci.org/stat-software-review/).
+
 Interesting for authors, and reviewers!
 
 [Online book of best practice](https://devguide.ropensci.org/) for the reviews and package development.
-
-------------------------------------------------------------------------
-
-## rOpenSci Software Peer Review
-
-🚀 Even more review and best practice on the way! [rOpenSci Statistical Software Peer Review](https://ropensci.org/stat-software-review/)
 
 ------------------------------------------------------------------------
 

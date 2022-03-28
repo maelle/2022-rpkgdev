@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 022c3f0b81cf8bd4
+rmd_hash: ea8fb1731e365215
 
 ---
 
@@ -145,7 +145,7 @@ Get to know an actually useful Clippy, `{usethis}`!
 
 ## Website tour
 
-:link: <https://pkg-dev-el.netlify.app>
+:link: <https://rladies-jozi-r-pkg-dev.netlify.app/>
 
 Slides, notes from the demo, further resources, comments!
 
@@ -161,7 +161,7 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 ## Back from the demo
 
--   [`devtools::load_all()`](https://devtools.r-lib.org//reference/load_all.html) (and then install)
+-   [`devtools::load_all()`](https://devtools.r-lib.org/reference/load_all.html) (and then install)
 
 -   `{usethis}` for all the things.
 
@@ -171,7 +171,7 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 <div class="highlight">
 
-{{< figure src="1727004.jpeg" alt="Green traffic light" caption="Picture by [Davis Sanchez on Pexels](https://www.pexels.com/photo/black-traffic-light-1727004/)." width="500" >}}
+{{< figure src="1616781.jpeg" alt="East Berlin pedestrian traffic light" caption="Picture by [Jos van Ouwerkerk on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-traffic-light-1616781/)." width="500" >}}
 
 </div>
 
