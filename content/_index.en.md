@@ -5,7 +5,7 @@ title: "Become an R Package Developer!"
 # Become an R Package Developer!
 
 > Monday, April the 4th, 2022. 
-> R-Ladies East-Lansing & R-Ladies Chicago
+> R-Ladies Johannesburg
 > [Event info on Meetup](https://www.meetup.com/fr-FR/rladies-johannesburg/)
 
 "Develop an R package", they said...
