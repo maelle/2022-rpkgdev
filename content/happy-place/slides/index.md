@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: 6258540b4dc2d204
+rmd_hash: d7bd36c2dc750f16
 
 ---
 
@@ -82,7 +82,7 @@ Both rewarding and time-consuming
 
 -   Governance file?
 
-\[rOpenSci past community call "Set Up Your Package to Foster a Community"\](<https://ropensci.org/commcalls/apr2021-pkg-community/>
+[rOpenSci past community call "Set Up Your Package to Foster a Community"](https://ropensci.org/commcalls/apr2021-pkg-community/)
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ This was a very brief presentation, and a complex topic.
 
 ## Thank you!
 
-Thanks for listening, thanks R-Ladies East Lansing & R-Ladies Chicago for organizing! :pray:
+Thanks for listening, thanks R-Ladies Johannesburg for organizing! :pray:
 
 Happy R package development! :package:
 

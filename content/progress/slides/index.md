@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 2ff671e7f69a7268
+rmd_hash: 3570e1242c73235d
 
 ---
 
@@ -69,7 +69,7 @@ Right after my talk (not now 😜), but then?
 
 > "The idea behind continuous integration is that CI will automatically run R CMD check (along with your tests, etc.) every time you push a commit to GitHub. You don't have to remember to do this; CI automatically checks the code after every commit." [Julia Silge](https://juliasilge.com/blog/beginners-guide-to-travis/)
 
-Travis, GitHub Actions, Circle CI, [`tic` package](https://docs.ropensci.org/tic/)...
+GitHub Actions, Circle CI, [`tic` package](https://docs.ropensci.org/tic/)...
 
 ------------------------------------------------------------------------
 

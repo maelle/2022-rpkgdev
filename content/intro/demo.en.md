@@ -2,7 +2,7 @@
 title: Demo
 weight: 1
 output: hugodown::md_document
-rmd_hash: 800c8db910d05898
+rmd_hash: 96b82db1aec66670
 
 ---
 
@@ -14,11 +14,13 @@ Note to Maëlle: SLOW DOWN!! Commit often, show state of folder. Mute if typing 
 
 -   `install.packages("devtools")`. [Setup chapter of the R packages book](https://r-pkgs.org/setup.html).
 
+-   `install.packages("available")`.
+
 -   [`devtools::has_devel()`](https://rdrr.io/pkg/pkgbuild/man/has_compiler.html)
 
 -   [`devtools::dev_sitrep()`](https://devtools.r-lib.org/reference/dev_sitrep.html)
 
--   [`usethis::git_sitrep()`](https://usethis.r-lib.org/reference/git_sitrep.html)
+-   [`usethis::git_sitrep()`](https://usethis.r-lib.org/reference/git_sitrep.html). [Managing Git(Hub) Credentials](https://usethis.r-lib.org/articles/git-credentials.html); ["Managing GitHub credentials from R, difficulty level linux"](https://blog.djnavarro.net/posts/2021-08-08_git-credential-helpers/).
 
 -   usethis and devtools setup in my .Rprofile. [`usethis::edit_r_profile()`](https://usethis.r-lib.org/reference/edit.html), what is an .Rprofile? [usethis setup article](https://usethis.r-lib.org/articles/articles/usethis-setup.html).
 
@@ -28,7 +30,7 @@ Setup is not fun!
 
 -   `available::available("minipkg")`
 
--   `usethis::create_package("/home/maelle/Documents/teaching/minipkg")`
+-   `usethis::create_package("../minipkg")`
 
 -   [`usethis::use_git()`](https://usethis.r-lib.org/reference/use_git.html)
 

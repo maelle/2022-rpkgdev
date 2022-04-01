@@ -12,11 +12,13 @@ Note to Maëlle: SLOW DOWN!! Commit often, show state of folder. Mute if typing 
 
 * `install.packages("devtools")`. [Setup chapter of the R packages book](https://r-pkgs.org/setup.html).
 
+* `install.packages("available")`.
+
 * `devtools::has_devel()`
 
 * `devtools::dev_sitrep()`
 
-* `usethis::git_sitrep()`
+* `usethis::git_sitrep()`. [Managing Git(Hub) Credentials](https://usethis.r-lib.org/articles/git-credentials.html); ["Managing GitHub credentials from R, difficulty level linux"](https://blog.djnavarro.net/posts/2021-08-08_git-credential-helpers/).
 
 * usethis and devtools setup in my .Rprofile. `usethis::edit_r_profile()`, what is an .Rprofile? [usethis setup article](https://usethis.r-lib.org/articles/articles/usethis-setup.html).
 
@@ -26,7 +28,9 @@ Setup is not fun!
 
 * `available::available("minipkg")`
 
-* `usethis::create_package("/home/maelle/Documents/teaching/minipkg")`
+* `usethis::create_package("../minipkg")`
+
+* `usethis::edit_r_profile()`
 
 * `usethis::use_git()`
 
