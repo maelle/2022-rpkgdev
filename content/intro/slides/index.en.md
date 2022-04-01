@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: ea8fb1731e365215
+rmd_hash: f2defda5681e1944
 
 ---
 
@@ -42,6 +42,18 @@ I really :heart: R package development
 -   Created the [R-hub blog](https://blog.r-hub.io).
 
 -   Worked on the [HTTP testing in R](https://books.ropensci.org/http-testing/) book.
+
+------------------------------------------------------------------------
+
+## My R package development creds
+
+Contributed to
+
+-   [pkgdown 2.0.0](https://www.tidyverse.org/blog/2021/12/pkgdown-2-0-0/) (to produce documentation websites for packages)
+
+-   [fledge 0.1.0](https://cynkra.github.io/fledge/) (Smoother change tracking and versioning for R packages)
+
+-   [glitter 0.1.0](https://lvaudor.github.io/glitter/) (a SPARQL domain-specific language)
 
 ------------------------------------------------------------------------
 
@@ -87,7 +99,7 @@ Susan Johnston's [wise words](https://github.com/susjoh/fibonacci).
 
 ## Learn about functions
 
--   [Materials from Stephanie Kirmer's tutorial](https://github.com/rladies-eastlansing/2021-rfunctions#writing-r-functions) :wink:
+-   [Materials from Stephanie Kirmer's R-Ladies East Lansing tutorial](https://github.com/rladies-eastlansing/2021-rfunctions#writing-r-functions)
 
 -   [Write your own R functions](https://stat545.com/functions-part1.html), stat 545 course by Jenny Bryan and The STAT 545 TAs;
 
@@ -171,7 +183,7 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 <div class="highlight">
 
-{{< figure src="1616781.jpeg" alt="East Berlin pedestrian traffic light" caption="Picture by [Jos van Ouwerkerk on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-traffic-light-1616781/)." width="500" >}}
+{{< figure src="1616781.jpeg" alt="East Berlin pedestrian traffic light" caption="Picture by [Jos van Ouwerkerk on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-traffic-light-1616781/)." width="300" >}}
 
 </div>
 
