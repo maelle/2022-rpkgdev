@@ -1,5 +1,11 @@
 
+<!-- badges: start -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8aeb0e37-d981-47ce-8689-591ecb3acc3d/deploy-status)](https://app.netlify.com/sites/rladies-jozi-r-pkg-dev/deploys)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+<!-- badges: end -->
+
 # Become an R package developer!
+
 ## Workshop for R-Ladies Jozi| 2022-04-04
 
 This repo contains the materials for a 2 hour workshop on R package development. <br>
@@ -8,28 +14,9 @@ Visit [https://rladies-jozi-r-pkg-dev.netlify.app/](https://rladies-jozi-r-pkg-d
 ### Instructor (+ Content)
 Maelle Salmon | ([@maelle](//github.com/maelle)) | [masalmon.eu](https://masalmon.eu) | [@ma_salmon](//twitter.com/ma_salmon)
 
-<img src="https://user-images.githubusercontent.com/8397074/110816176-1ae75300-8259-11eb-8376-b678ee6bdf29.png" width="50%">
 
 ### Organizers
-- [R-Ladies East Lansing](//github.com/rladies-eastlansing) | [@RLadiesELansing](//twitter.com/RLadiesELansing)
-- [R-Ladies Chicago](//github.com/rladies-chicago) | [@RLadiesChicago](//twitter.com/RLadiesChicago)
-
-## Setup instructions
-- [R/RStudio setup](https://github.com/rladies-eastlansing/meetup-presentations/blob/master/presentations/R_Rstudio_setup_instructions.md)
-- Install [`testthat`](https://github.com/r-lib/testthat), [`usethis`](https://cran.r-project.org/web/packages/usethis/index.html), [`roxygen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) packages
-
-## Further Reading
-* https://rladies-jozi-r-pkg-dev.netlify.app/resources/
-* https://r-pkgs.org
-* https://devguide.ropensci.org
-* https://r-pkgs.org/man.html
-
-***
-
-<!-- badges: start -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8aeb0e37-d981-47ce-8689-591ecb3acc3d/deploy-status)](https://app.netlify.com/sites/rladies-jozi-r-pkg-dev/deploys)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-<!-- badges: end -->
+- [R-Ladies Johannesburg](https://www.meetup.com/rladies-johannesburg/events/284974968/) | [@RLadiesELansing](//twitter.com/RLadiesJozi)
 
 Source of the website of a short course.
 
