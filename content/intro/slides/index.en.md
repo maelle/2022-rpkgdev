@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: f2defda5681e1944
+rmd_hash: 832d97701b700b37
 
 ---
 
@@ -105,7 +105,7 @@ Susan Johnston's [wise words](https://github.com/susjoh/fibonacci).
 
 -   [Chapter about functions](https://r4ds.had.co.nz/functions.html) in the book "R for Data Science" by Garrett Grolemund and Hadley Wickham;
 
--   [Fun with Functions talk](https://www.kaylea.co.uk/talk/funwithfunctions/) by Kaylea Haynes, R-Ladies Manchester.
+-   [Fun with Functions talk](https://zealous-wiles-e22e83.netlify.app/talk/funwithfunctions/) by Kaylea Haynes, R-Ladies Manchester.
 
 ------------------------------------------------------------------------
 
